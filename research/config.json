@@ -1,0 +1,7 @@
+{
+  "random-type": "lcg",
+  "omp-include": 1,
+  "threads" : 6,
+  "schedule-type" : "dynamic",
+  "chunk-size" : 65536
+}
